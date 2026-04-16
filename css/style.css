@@ -36,6 +36,10 @@ header a:hover {
     text-decoration:underline;
 }
 
+.sec1 {
+    margin-bottom: 150px;
+}
+
 #ar-prompt {
     display: none;
 }
